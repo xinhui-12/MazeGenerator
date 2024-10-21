@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 227d61bd8ba4cbb468a2e1bd14b5f452
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {instanceID: 0}
+  - floorPrefab: {instanceID: 0}
+  - startWall: {instanceID: 0}
+  - mapRender: {instanceID: 0}
+  - aiPlayerPrefab: {fileID: 5733663577441637966, guid: 564750aaf4a60b847a90fda1ee009b43, type: 3}
+  - aiEnemyPrefab: {fileID: 7362667217747448730, guid: a453b9073c471d948b2ae18691db7888, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

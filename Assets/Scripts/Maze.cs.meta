@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58b99b2409b310440b5b0a033d89446a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - setting: {instanceID: 0}
+  - mapCanvas: {instanceID: 0}
+  - mapRawImage: {instanceID: 0}
+  - mapCamera: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  - target: {fileID: 5733663577441637966, guid: 564750aaf4a60b847a90fda1ee009b43, type: 3}
+  - enemyAgent: {fileID: 7362667217747448730, guid: a453b9073c471d948b2ae18691db7888, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
